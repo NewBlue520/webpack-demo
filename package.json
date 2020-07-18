@@ -25,7 +25,7 @@
     "html-webpack-template": "^6.2.0",
     "jquery": "3.3.1",
     "layui-src": "^2.2.5",
-    "lodash": "^4.17.11",
+    "lodash": "^4.17.19",
     "ora": "^3.4.0",
     "rimraf": "^3.0.0",
     "style-loader": "^0.23.1",
